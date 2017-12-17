@@ -1,0 +1,7 @@
+For compile and run;
+  $ make
+  $ java SnakeGame
+  
+Or run from jar file;
+  $  java -jar "SnakeGame.jar"
+
